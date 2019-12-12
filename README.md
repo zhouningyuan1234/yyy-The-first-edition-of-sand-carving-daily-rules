@@ -9,5 +9,5 @@
 		-->
         </style>
 	</head>
-  <body><h1><center>沙雕日报第1期</center></h1>
+  <body><h1><center>沙雕日报规则第1版</center></h1>
 	  <div>

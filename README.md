@@ -27,7 +27,7 @@
 	  <div>社会名                3000币-4999币       社会一哥</div><br>
 	  <div>终极沙雕日报大佬名     5000币以上          最强王者</div><br>
 	  <div>紫名                  管理员</div><br>
-	  <div>青名                  副管理员</div><br>
+	  <div>青名                  副管理员</div><br><div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
 		  </body>
 	  </html>
 	  
